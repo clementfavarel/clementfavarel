@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clément FAVAREL</h1>
 <h3 align="center">A passionate junior web developer from France</h3>
 
-- 🔭 I’m currently working on ["Organiz"](https://organiz.plkode.com)
+- 💻 I’m currently working on ["Organiz"](https://organiz.plkode.com)
 
-- 🌱 I’m currently learning **Advanced principles of Web Development**
+- 📚 I’m currently learning **Advanced principles of Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clementfavarel](https://github.com/clementfavarel)
 
