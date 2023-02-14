@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS, PHP, SQL**
 
-- 📫 How to reach me **clmt.fvrl@gmail.com**
+- 📫 How to reach me **pl.kode.pro@gmail.com**
 
 - ⚡ Fun fact **I'm in love with fitness !**
 
