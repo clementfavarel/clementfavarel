@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Clément FAVAREL</h1>
 <h3 align="center">A passionate junior web developer from France</h3>
 
-- 💻 I’m currently working on ["Organiz"](https://organiz.plkode.com)
+- 💻 I’m currently working on ["my ChatCV"](https://plkode.com)
 
 - 📚 I’m currently learning **Advanced principles of Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clementfavarel](https://github.com/clementfavarel)
 
-- 📝 I regularly write articles on [https://instagram.com/pl.kode](https://instagram.com/pl.kode)
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS, PHP, SQL**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JS (ES6 / Node), PHP, SQL**
 
 - 📫 How to reach me **pl.kode.pro@gmail.com**
-
-- ⚡ Fun fact **I'm in love with fitness !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
