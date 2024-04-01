@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-
 <h1 align="center">PLKODE</h1>
 <h3 align="center">Développeur Web orienté backend</h3>
 
