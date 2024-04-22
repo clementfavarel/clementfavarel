@@ -6,9 +6,9 @@ Je suis un développeur de 20 ans basé en France, et passionné par la créatio
  
 ## 📦 Boîte à Outils
 
-**Développement Frontend:** `React` `Tailwind` `Bootstrap` `HTMX`
+**Développement Frontend:** `React` `Tailwind` `Bootstrap`
 
-**Développement Backend:** `PHP` `Laravel` `NodeJS` `Express` `MySQL` `MariaDB` `PostgreSQL`
+**Développement Backend:** `PHP` `Laravel` `NodeJS` `Express` `MySQL` `MariaDB`
 
 **Développement Mobile:** `React Native` `Expo`
 
@@ -16,7 +16,7 @@ Je suis un développeur de 20 ans basé en France, et passionné par la créatio
  
 ## ✨ Fun Facts 
 
-- J'ai réussi à quitter Neovim.
+- J'ai réussi à quitter Vim.
 - Quand j'étais petit, je voulais faire sapeurs-pompiers.
 - Je suis sur Linux uniquement parce que je ne joue pas aux jeux vidéos.
 - Je soulève 140kg au squat.
